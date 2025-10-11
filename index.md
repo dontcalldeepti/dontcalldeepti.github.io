@@ -1,8 +1,3 @@
 ---
-layout: default
-title: Home
+layout: home
 ---
-
-# Welcome to My Blog
-
-This site will contain my cybersecurity projects, research notes, and findings.
