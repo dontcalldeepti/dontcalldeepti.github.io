@@ -1,0 +1,6 @@
+title: "blog"
+email: "deeptirawat.business@gmail.com"
+description: "A blog documenting my cybersecurity projects and research."
+baseurl: "" # leave empty for user page
+url: "https://dontcalldeepti.github.io"
+theme: minima # simple built-in theme
