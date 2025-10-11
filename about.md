@@ -1,8 +1,8 @@
 ---
-title: About
+title: about
 permalink: /about/
 layout: page
-excerpt: Hello, I'm Deepti. I like to learn a lot of things.
+excerpt: hi, I'm Deepti. I like to learn a lot of things
 comments: false
 ---
 
@@ -10,5 +10,5 @@ Hi! I'm Deepti Rawat. This blog is for documenting my cybersecurity journey, pro
 
 If you want to get in touch or have questions, you can reach me at:
 
-- Email: {{ site.author.email }}
+- LinkedIn: [deeptirawat26](https://www.linkedin.com/in/deeptirawat26/)
 - GitHub: [{{ site.author.github }}](https://github.com/{{ site.author.github }})
