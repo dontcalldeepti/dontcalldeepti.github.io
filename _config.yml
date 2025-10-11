@@ -10,15 +10,14 @@ mode: dark                      # default theme: "dark" | "light"
 
 # Profile settings
 author:
-  name: deepti                    # your name / display name
+  name:    deepti rawat               # your name / display name
   bio: >-
-    Documenting my cybersecurity journey, projects, and research.
+    blogging the journey and everything in it
   username: dontcalldeepti
   github: dontcalldeepti
-  twitter: ""                   # optional
-  facebook: ""                  # optional
+  
   email: deeptirawat.business@gmail.com
-  avatar: /assets/images/avatar.jpg   # replace with your avatar
+  avatar: /assets/img/avatar.jpg   # replace with your avatar
 
 # URL settings
 url: "https://dontcalldeepti.github.io"  # your GitHub Pages URL
