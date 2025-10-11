@@ -1,16 +1,15 @@
 # Site settings
-title: dips' blog        # site title
+title: dips' blog     
 description: >-
   documenting findings, projects and just about anything cybersecurity
-lang: en-US                    # default language
-timezone: Asia/Kolkata          # your timezone
-image: assets/img/ogp.png    # Open Graph image (replace if needed)
+lang: en-US                    
+timezone: Asia/Kolkata             
 repo: https://github.com/dontcalldeepti/dontcalldeepti.github.io
-mode: dark                      # default theme: "dark" | "light"
+mode: dark                      
 
 # Profile settings
 author:
-  name:    deepti rawat               # your name / display name
+  name:    deepti rawat               
   bio: >-
     blogging the journey and everything in it
   username: dontcalldeepti
@@ -18,14 +17,13 @@ author:
   
   email: deeptirawat.business@gmail.com
   linkedin: deeptirawat26
-  avatar: /assets/img/avatar.jpg   # replace with your avatar
+  avatar: /assets/img/pic.jpg   
 
 # URL settings
-url: "https://dontcalldeepti.github.io"  # your GitHub Pages URL
-baseurl: ""                               # leave empty for user page
+url: "https://dontcalldeepti.github.io" 
+baseurl: ""                               
 permalink: /:title/                       # URL structure
-google_analytics: ""                      # optional
-fb_appid: ""                              # optional
+google_analytics: ""                                          
 
 # Collection settings
 collections:
