@@ -2,11 +2,11 @@
 title: about
 permalink: /about/
 layout: page
-excerpt: hi, I'm Deepti. I like to learn a lot of things
+excerpt: hi, I'm Deepti and I like to learn a lot of things.
 comments: false
 ---
 
-Hi! I'm Deepti Rawat. This blog is for documenting my all the fun projects I create or find.
+Documenting all my projects, findings, or proof-of-concepts, in an attempt to land a cool job.
 
 you can reach me at:
 
