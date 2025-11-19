@@ -6,7 +6,7 @@ excerpt: hi, I'm Deepti. I like to learn a lot of things
 comments: false
 ---
 
-Hi! I'm Deepti Rawat. This blog is for documenting my cybersecurity journey, projects, and findings. 
+Hi! I'm Deepti Rawat. This blog is for documenting my all the fun projects I create or find.
 
 you can reach me at:
 
